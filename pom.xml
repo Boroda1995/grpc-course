@@ -14,6 +14,7 @@
         <module>client</module>
         <module>python-client</module>
         <module>proto</module>
+        <module>kafka-avro</module>
     </modules>
 
     <properties>
